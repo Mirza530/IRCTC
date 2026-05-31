@@ -10,9 +10,9 @@ pipeline {
                     cal 2026
                 '''
 
-                sh '''
-                    cat holidays.txt
-                '''
+                
+                    
+                
             }
         }
     }
